@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, and a New Developer!!
-[CRC]
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
