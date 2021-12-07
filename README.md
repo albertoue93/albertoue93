@@ -36,5 +36,5 @@
 <br />
 
 [twitter]: https://twitter.com/AlbertoUrbinaCR
-[instagram]: https://instagram.com/AlbertoUrbinaCR
+[instagram]: https://instagram.com/albertourbinacr
 [linkedin]: https://linkedin.com/alberto-urbina-espinoza-80427911a
